@@ -11,3 +11,5 @@
 **개인 Github** -> https://github.com/hyeongonkim
 
 **Bitbyte Corp. 플레이키보드** -> https://plkey.app
+
+**LinkedIn** -> https://www.linkedin.com/in/hyeongon-kim-5844b61a6/
