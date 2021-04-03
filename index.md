@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Bitbyte Corp. 산학 자유분반 (Team 34)
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+(주)비트바이트 산학 자유분반 프로젝트입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 팀 소개
 
-### Markdown
+- 20163103 김현곤 단독 팀으로, 사내 프로덕트 팀과 함께 프로젝트를 진행합니다.
+  - 보안 내규로 소스코드 및 커밋 내역은 공개할 수 없습니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 프로젝트 소개(보안상 세부내용 공개 불가)
 
-```markdown
-Syntax highlighted code block
+- '플레이키보드' 안드로이드 키보드 애플리케이션에서의 빠르고 정확한 단어추천 기능 개발
+  - 이미 서비스 중인 단어추천 기능의 개선을 진행
+  - 기존 로직 성능 측정 및 개선 방향 설계
+  - 데이터셋 재구성 및 단어추천 알고리즘 개선
 
-# Header 1
-## Header 2
-### Header 3
+**개인 Github** -> https://github.com/hyeongonkim
 
-- Bulleted
-- List
+**Bitbyte Corp. 플레이키보드** -> https://plkey.app
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**LinkedIn** -> https://www.linkedin.com/in/hyeongon-kim-5844b61a6/
